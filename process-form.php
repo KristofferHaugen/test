@@ -13,7 +13,7 @@ if ( ! $terms) {
 $host = "localhost";
 $dbname = "message_db";
 $username = "hodor";
-$password = "Krissx2";
+$password = "";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
 
